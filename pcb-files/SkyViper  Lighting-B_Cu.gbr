@@ -1,0 +1,48 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,8.99.0-3458-gcd40f6046b*%
+%TF.CreationDate,2025-06-07T23:36:47+05:30*%
+%TF.ProjectId,SkyViper  Lighting,536b7956-6970-4657-9220-204c69676874,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Copper,L2,Bot*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 8.99.0-3458-gcd40f6046b) date 2025-06-07 23:36:47*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,ComponentPad*%
+%ADD10R,2.000000X2.000000*%
+%TD*%
+%TA.AperFunction,ViaPad*%
+%ADD11C,0.600000*%
+%TD*%
+%TA.AperFunction,Conductor*%
+%ADD12C,0.200000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+%TO.P,REF\u002A\u002A,1*%
+%TO.N,Net-(D11-DOUT)*%
+X184500000Y-74250000D03*
+%TD*%
+%TO.P,REF\u002A\u002A,1*%
+%TO.N,+5V*%
+X184500000Y-72000000D03*
+%TD*%
+%TO.P,REF\u002A\u002A,1*%
+%TO.N,GND*%
+X184500000Y-76500000D03*
+%TD*%
+D11*
+%TO.N,Net-(D11-DOUT)*%
+X178950000Y-73100000D03*
+%TD*%
+D12*
+%TO.N,Net-(D11-DOUT)*%
+X180100000Y-74250000D02*
+X178950000Y-73100000D01*
+X184500000Y-74250000D02*
+X180100000Y-74250000D01*
+%TD*%
+M02*
