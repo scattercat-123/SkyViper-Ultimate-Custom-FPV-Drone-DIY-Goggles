@@ -2,6 +2,7 @@
 Sneak peek:
 
 <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/767862e66947b73047b56bdae2d4226ab6450285_image.png" height="200px">
+
 ## Yeah, another project but a drone!
 What I plan to create:
 An FPV Drone with around 5-8km Range
@@ -21,3 +22,7 @@ PCB: in the pcb folder of this repo.
 How does it fly: [https://www.youtube.com/watch?v=xvFZjo5PgG0](https://www.youtube.com/watch?v=xvFZjo5PgG0)
 VERY SMOOTH FOOTAGE UP!
 Or maybe a drone is still in progress. maybe that vid is smthn else :))
+
+## Check the journal.md for more stuff!
+
+Why is this drone good? - The Ultimate FPV Freestyle Drone which has a max speed of 80km/h. Has A custom lighting PCB and custom frame. Has many features such as digital hd camera feed to the goggles and gps. Also has pcb custom lighting and bluetooth + 60A power to motors + many more!!
