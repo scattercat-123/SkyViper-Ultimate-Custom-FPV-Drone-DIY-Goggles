@@ -126,10 +126,23 @@ I finished the PCB
 I researched on very light lighting system so heres the final one!-
 <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/954fbe07cd8f365a0e1ec545d428c37b2f41b3c8_image.png">
 
-## Day 14
+## Day 14-18
+Time taken: 10 hrs
+I just planned to design my own fpv gogggles for cheap!
+It is a digital goggles and is cheaper and better than most of the goggles! It is about 300 dollars.
+![image](https://github.com/user-attachments/assets/7fbb660c-b124-4445-a827-6a00a6f8170a)
+![image](https://github.com/user-attachments/assets/1b07fff7-29cd-4bdd-bd13-8e92582ba319)
+
+Check it out!
+
+It uses a mini 5 inch hdmi display which is connected to the walksnail a avatar vrx which is connected to the 1s lite camera on the drone!
+Also ordering custom lenses from china for better quality and cheap!
+
+
+## Day 19
 Time Taken: 1 hr
 
-Few more adjustments and submitting do the hackclub highway-pitsotop channel!
+Few more adjustments and submitting to the hackclub highway-pitsotop channel!
 
 Yeah another good project!
 
