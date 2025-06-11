@@ -2,6 +2,8 @@
 Sneak peek:
 
 <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/767862e66947b73047b56bdae2d4226ab6450285_image.png" height="200px">
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/f44446918baae1e5bb92ede1ec90d15e97d14553_image.png" height="200px">
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/3c7a0b3ddec20d6316692645dfa2aaf468374622_image.png" height="200px">
 
 ## Yeah, another project but a drone!
 What I plan to create:
@@ -17,6 +19,7 @@ Why I can make this drone? : Cause im sigma.
 
 ## All files:
 Cad model: [https://a360.co/45HCMao](https://a360.co/45HCMao)
+Cad model of goggles: https://a360.co/3HzNDt3
 BOM : [https://docs.google.com/spreadsheets/d/1Hrb5sHN5tFeTms5Vuv9qXKcgenCcHvxhi3MSpN7YOBo/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1Hrb5sHN5tFeTms5Vuv9qXKcgenCcHvxhi3MSpN7YOBo/edit?usp=sharing)
 PCB: in the pcb folder of this repo.
 How does it fly: [https://www.youtube.com/watch?v=xvFZjo5PgG0](https://www.youtube.com/watch?v=xvFZjo5PgG0)
